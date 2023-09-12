@@ -265,8 +265,8 @@ export const Bio = {
         "https://cdn.jsdelivr.net/gh/soumyajit4419/Portfolio@f0a223767eec99cd6f79a8df223fe8096a2a4ca0/Images/readme-img1.png",
       tags: ["React js"],
       category: "web app",
-      github: "https://github.com/SkRizvan/portfolio.git",
-      webapp:"https://skrizvan.github.io/portfolio/",
+      github: "https://github.com/SkRizvan/Portfolio.git",
+      webapp:"https://skrizvan.github.io/Portfolio/",
       member: [
         {
           name: "Rizvan Shaik",
