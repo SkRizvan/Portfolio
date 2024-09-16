@@ -288,7 +288,7 @@ export const Bio = {
       tags: ["React js"],
       category: "web app",
       github: "https://github.com/SkRizvan/Portfolio.git",
-      webapp:"https://skrizvan.github.io/Portfolio/",
+      webapp:"https://portfolio-app-test.netlify.app",
       member: [
         {
           name: "Rizvan Shaik",
@@ -364,7 +364,7 @@ export const Bio = {
       tags: ["Python", "cv2", "mediapipe", "handTrackingModule","CNN", "Open Cv"],
       category: "artificial intelligence",
       github: "https://github.com/SkRizvan/hand-cricket.git",
-      webapp:"https://skrizvan.github.io/hand-cricket/", 
+      webapp:"https://github.com/SkRizvan/hand-cricket", 
       member: [
         {
           name: "Rizvan Shaik",
