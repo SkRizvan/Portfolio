@@ -12,7 +12,7 @@ export const Bio = {
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/SkRizvan",
-    resume: "https://drive.google.com/file/d/1_guXjK8AHRSafkmXfslp9c6NkPe2Ik05/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1i5SECQLjnH0GZ255USZQlG9KQ7_sBSoZ/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/sk-rizvan/",
     twitter: "https://twitter.com/RizvanSk_21",
     insta: "https://www.instagram.com/___rizvan.___/",
@@ -310,7 +310,7 @@ export const Bio = {
       tags: ["Js", "HTML", "CSS"],
       category: "web app",
       github: "https://github.com/SkRizvan/Stack3D.git",
-      webapp:"https://skrizvan.github.io/Stack3D/",
+      webapp:"stack3d.netlify.app",
       member: [
         {
           name: "Rizvan Shaik",
@@ -336,7 +336,7 @@ export const Bio = {
         "php",
       ],
       category: "web app",
-      webapp:"https://skrizvan.github.io/Event-mngt/",
+      webapp:"https://event-managementweb.netlify.app",
       github: "https://github.com/SkRizvan/Event-mngt.git",
       member: [
         {
@@ -374,6 +374,27 @@ export const Bio = {
         },
       ],
     },
+    {
+      id: 5,
+      title: "Real-Time-Chat",
+      date: "Sept 2024  - Sept 2024",
+      description:
+        "Developed a scalable real-time chat application using ReactJS and Firebase, enabling seamless communication with live updates and efficient data synchronization. ",
+      image:
+        "https://i.ytimg.com/vi/domt_Sx-wTY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCft2WyiGX6UF6WCKxo-soRZtd1gQ",
+      tags: ["React Js", "Node Js", "Firebase"],
+      category: "web app",
+      github: "https://github.com/SkRizvan/Chat-web.git",
+      webapp:"https://my-realtime-chat.netlify.app", 
+      member: [
+        {
+          name: "Rizvan Shaik",
+          img: "https://avatars.githubusercontent.com/u/112105770?s=400&v=4",
+          linkedin: "https://www.linkedin.com/in/sk-rizvan/",
+          github: "https://github.com/SkRizvan/",
+        },
+      ], 
+    }
     
   ];
   
