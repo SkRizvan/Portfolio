@@ -38,6 +38,7 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="artificial intelligence" onClick={() => setToggle('artificial intelligence')}>ARTIFICIAL INTELLIGENCE </ToggleButton>
           }
+
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === 'all' && projects
@@ -45,7 +46,7 @@ const Projects = ({openModal,setOpenModal}) => {
               <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
             ))}
           {projects
-            .filter((item) => item.category == toggle)
+            .filter((item) => item.category === toggle)
             .map((project) => (
               <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
             ))}

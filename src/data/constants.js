@@ -12,7 +12,7 @@ export const Bio = {
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/SkRizvan",
-    resume: "https://drive.google.com/file/d/1i5SECQLjnH0GZ255USZQlG9KQ7_sBSoZ/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1UXG8BWbZtARsSDP7XCopK-SeFEpixiJ5/view?usp=sharing ",
     linkedin: "https://www.linkedin.com/in/sk-rizvan/",
     twitter: "https://twitter.com/RizvanSk_21",
     insta: "https://www.instagram.com/___rizvan.___/",
@@ -212,7 +212,7 @@ export const Bio = {
     },
     {
       id:3,
-      img:"https://media.licdn.com/dms/image/v2/C5622AQH7vzV5aFxnAQ/feedshare-shrink_800/feedshare-shrink_800/0/1677698736997?e=2147483647&v=beta&t=dKNzOKmw-PjL7N_Tlb2-kkWZFW0aKjEuk13C8uW8cO4",
+      img:"https://tse2.mm.bing.net/th?id=OIP.JJLAKo_IyaxfEE9t3jG1OQHaCX&pid=Api&P=0&h=180",
       role: "Machine Learning Virtual Internship",
       company:"Bharat Intern",
       date:'Sept 2023 - Oct 2023',
@@ -386,6 +386,27 @@ export const Bio = {
       category: "web app",
       github: "https://github.com/SkRizvan/Chat-web.git",
       webapp:"https://my-realtime-chat.netlify.app", 
+      member: [
+        {
+          name: "Rizvan Shaik",
+          img: "https://avatars.githubusercontent.com/u/112105770?s=400&v=4",
+          linkedin: "https://www.linkedin.com/in/sk-rizvan/",
+          github: "https://github.com/SkRizvan/",
+        },
+      ], 
+    },
+    {
+      id: 6,
+      title: "Finance Dashboard",
+      date: "Oct 2024  - Oct 2024",
+      description:
+        "I developed a dynamic finance dashboard using the MERN stack, seamlessly integrating machine learning to analyze and visualize financial trends. The platform provides real-time insights and predictive analytics.",
+      image:
+        "https://i.ytimg.com/vi/uoJ0Tv-BFcQ/maxresdefault.jpg",
+      tags: ["React Js", "Typescript", "Node Js", "MongoDB", "Machine Learning"],
+      category: "web app",
+      github: "https://github.com/SkRizvan/Finanseer.git",
+      webapp:"https://myfinanseer.netlify.app/", 
       member: [
         {
           name: "Rizvan Shaik",
